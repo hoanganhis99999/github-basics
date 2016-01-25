@@ -1,0 +1,6 @@
+*.log
+.htaccess
+.DS_Store
+!README.txt
+
+_fonts/
